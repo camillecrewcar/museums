@@ -1,0 +1,28 @@
+
+.card mb-3:hover {
+    cursor: pointer; /* Change the cursor style to pointer */
+}
+.card-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.card-link a {
+    text-decoration: none !important;
+    color: black !important;
+}
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+.login-link {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 18px;
+  }
